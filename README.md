@@ -1,7 +1,7 @@
 # UDA_Multisource_Remote_Sensing_HMDA-DANet
 Unsupervised Domain Adaptation with Hierarchical Masked Dual-adversarial Network for End-to-end Classification of Multisource Remote Sensing Data
 
-Paper web page: [IEEE](https://xplorestaging.ieee.org/document/10981764).
+Paper web page: [Unsupervised Domain Adaptation with Hierarchical Masked Dual-adversarial Network for End-to-end Classification of Multisource Remote Sensing Data](https://xplorestaging.ieee.org/document/10981764).
 
 Related code will be released gradually.
 
