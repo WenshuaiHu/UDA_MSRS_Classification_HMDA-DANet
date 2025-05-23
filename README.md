@@ -19,8 +19,7 @@ Please cite our paper if you find the code or dataset useful for your research.
   number={},<br>
   pages={1-1},<br>
   keywords={Feature extraction;Adaptation models;Semantics;Laser radar;Frequency-domain analysis;Decoding;Data mining;Complexity theory;Autoencoders;Accuracy;Cross scene;multisource remote sensing data;end-to-end classification;multimodal masking learning;masked autoencoder;multi-adversarial learning;frequency attention},<br>
-  doi={10.1109/TGRS.2025.3566305}<br>
-  }
+  doi={10.1109/TGRS.2025.3566305}}
 
 # Requirements
 
