@@ -13,13 +13,14 @@ Please cite our paper if you find the code or dataset useful for your research.
 @ARTICLE{10981764,
   author={Hu, Wen-Shuai and Li, Wei and Li, Heng-Chao and Zhao, Xudong and Zhang, Mengmeng and Tao, Ran},<br>
   journal={IEEE Transactions on Geoscience and Remote Sensing}, <br>
-  title={Unsupervised Domain Adaptation with Hierarchical Masked Dual-adversarial Network for End-to-end Classification of Multisource Remote Sensing Data}, <br>
+  title={Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data}, <br>
   year={2025},<br>
-  volume={},<br>
+  volume={63},<br>
   number={},<br>
-  pages={1-1},<br>
-  keywords={Feature extraction;Adaptation models;Semantics;Laser radar;Frequency-domain analysis;Decoding;Data mining;Complexity theory;Autoencoders;Accuracy;Cross scene;multisource remote sensing data;end-to-end classification;multimodal masking learning;masked autoencoder;multi-adversarial learning;frequency attention},<br>
+  pages={1-17},<br>
+  keywords={Feature extraction;Adaptation models;Semantics;Laser radar;Frequency-domain analysis;Decoding;Data mining;Complexity theory;Autoencoders;Accuracy;Cross-scene;end-to-end classification;frequency attention;masked autoencoder (MAE);multiadversarial learning;multimodal masking learning;multisource remote sensing (MSRS) data},<br>
   doi={10.1109/TGRS.2025.3566305}}
+
 
 # Requirements
 
