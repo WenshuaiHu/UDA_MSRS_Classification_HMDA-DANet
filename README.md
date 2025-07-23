@@ -14,7 +14,7 @@ Citation
 
 Wen-Shuai Hu, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang, and Ran Tao, "Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-17, 2025, Art no. 4409917, doi: 10.1109/TGRS.2025.3566305. <br>
 
-@ARTICLE{10981764,
+@ARTICLE{10981764, <br>
   author={Hu, Wen-Shuai and Li, Wei and Li, Heng-Chao and Zhao, Xudong and Zhang, Mengmeng and Tao, Ran},<br>
   journal={IEEE Transactions on Geoscience and Remote Sensing}, <br>
   title={Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data}, <br>
